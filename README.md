@@ -23,7 +23,7 @@ SOLUTION :-
 
 1)
 Creating a docker image which install jenkins image and jenkins service
-![Screenshot (200)](https://user-images.githubusercontent.com/60147097/81861719-51473980-9586-11ea-8175-16abe095a657.png)
+![image](https://user-images.githubusercontent.com/60147097/89100754-55f9ec00-d417-11ea-96c2-dc66375cccbe.png)
 
 
 
