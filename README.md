@@ -43,6 +43,7 @@ Creating a docker image which install jenkins image and jenkins service
 ![Screenshot (201)](https://user-images.githubusercontent.com/60147097/81860833-ed704100-9584-11ea-8208-0c23d8dcd4fc.png)
 
 ![Screenshot (203)](https://user-images.githubusercontent.com/60147097/81860891-0547c500-9585-11ea-928e-aa42940153b3.png)
+![image](https://user-images.githubusercontent.com/60147097/89100514-2813a800-d415-11ea-9760-a02448cc6af6.png)
 
 
 
